@@ -1,0 +1,5 @@
+E:\Ashish FYBBA-CA CF\5th Trimester\NET Programming\Quiz\Quiz 02\program\inheritance - single\inheritance - single\bin\Debug\inheritance - single.exe
+E:\Ashish FYBBA-CA CF\5th Trimester\NET Programming\Quiz\Quiz 02\program\inheritance - single\inheritance - single\bin\Debug\inheritance - single.pdb
+E:\Ashish FYBBA-CA CF\5th Trimester\NET Programming\Quiz\Quiz 02\program\inheritance - single\inheritance - single\obj\Debug\ResolveAssemblyReference.cache
+E:\Ashish FYBBA-CA CF\5th Trimester\NET Programming\Quiz\Quiz 02\program\inheritance - single\inheritance - single\obj\Debug\inheritance - single.exe
+E:\Ashish FYBBA-CA CF\5th Trimester\NET Programming\Quiz\Quiz 02\program\inheritance - single\inheritance - single\obj\Debug\inheritance - single.pdb
