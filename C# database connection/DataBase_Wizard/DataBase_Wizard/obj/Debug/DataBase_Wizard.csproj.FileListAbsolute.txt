@@ -1,0 +1,10 @@
+E:\a coding\.NET Framework\C# database connection\DataBase_Wizard\DataBase_Wizard\bin\Debug\Database1.accdb
+E:\a coding\.NET Framework\C# database connection\DataBase_Wizard\DataBase_Wizard\bin\Debug\DataBase_Wizard.exe.config
+E:\a coding\.NET Framework\C# database connection\DataBase_Wizard\DataBase_Wizard\bin\Debug\DataBase_Wizard.exe
+E:\a coding\.NET Framework\C# database connection\DataBase_Wizard\DataBase_Wizard\bin\Debug\DataBase_Wizard.pdb
+E:\a coding\.NET Framework\C# database connection\DataBase_Wizard\DataBase_Wizard\obj\Debug\ResolveAssemblyReference.cache
+E:\a coding\.NET Framework\C# database connection\DataBase_Wizard\DataBase_Wizard\obj\Debug\DataBase_Wizard.Form1.resources
+E:\a coding\.NET Framework\C# database connection\DataBase_Wizard\DataBase_Wizard\obj\Debug\DataBase_Wizard.Properties.Resources.resources
+E:\a coding\.NET Framework\C# database connection\DataBase_Wizard\DataBase_Wizard\obj\Debug\DataBase_Wizard.csproj.GenerateResource.Cache
+E:\a coding\.NET Framework\C# database connection\DataBase_Wizard\DataBase_Wizard\obj\Debug\DataBase_Wizard.exe
+E:\a coding\.NET Framework\C# database connection\DataBase_Wizard\DataBase_Wizard\obj\Debug\DataBase_Wizard.pdb

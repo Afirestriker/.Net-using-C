@@ -1,0 +1,8 @@
+E:\a coding\.NET Framework\C# database connection\DataBase_Code\DataBase_Code\bin\Debug\DataBase_Code.exe
+E:\a coding\.NET Framework\C# database connection\DataBase_Code\DataBase_Code\bin\Debug\DataBase_Code.pdb
+E:\a coding\.NET Framework\C# database connection\DataBase_Code\DataBase_Code\obj\Debug\ResolveAssemblyReference.cache
+E:\a coding\.NET Framework\C# database connection\DataBase_Code\DataBase_Code\obj\Debug\DataBase_Code.Form1.resources
+E:\a coding\.NET Framework\C# database connection\DataBase_Code\DataBase_Code\obj\Debug\DataBase_Code.Properties.Resources.resources
+E:\a coding\.NET Framework\C# database connection\DataBase_Code\DataBase_Code\obj\Debug\DataBase_Code.csproj.GenerateResource.Cache
+E:\a coding\.NET Framework\C# database connection\DataBase_Code\DataBase_Code\obj\Debug\DataBase_Code.exe
+E:\a coding\.NET Framework\C# database connection\DataBase_Code\DataBase_Code\obj\Debug\DataBase_Code.pdb
