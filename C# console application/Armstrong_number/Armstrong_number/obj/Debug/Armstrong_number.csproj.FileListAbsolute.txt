@@ -1,0 +1,5 @@
+E:\a coding\.NET Framework\C# console application\Armstrong_number\Armstrong_number\obj\Debug\ResolveAssemblyReference.cache
+E:\a coding\.NET Framework\C# console application\Armstrong_number\Armstrong_number\bin\Debug\Armstrong_number.exe
+E:\a coding\.NET Framework\C# console application\Armstrong_number\Armstrong_number\bin\Debug\Armstrong_number.pdb
+E:\a coding\.NET Framework\C# console application\Armstrong_number\Armstrong_number\obj\Debug\Armstrong_number.exe
+E:\a coding\.NET Framework\C# console application\Armstrong_number\Armstrong_number\obj\Debug\Armstrong_number.pdb

@@ -1,0 +1,5 @@
+E:\a coding\.NET Framework\C# console application\constructor_default_constructor\constructor_default_constructor\obj\Debug\ResolveAssemblyReference.cache
+E:\a coding\.NET Framework\C# console application\constructor_default_constructor\constructor_default_constructor\bin\Debug\constructor_default_constructor.exe
+E:\a coding\.NET Framework\C# console application\constructor_default_constructor\constructor_default_constructor\bin\Debug\constructor_default_constructor.pdb
+E:\a coding\.NET Framework\C# console application\constructor_default_constructor\constructor_default_constructor\obj\Debug\constructor_default_constructor.exe
+E:\a coding\.NET Framework\C# console application\constructor_default_constructor\constructor_default_constructor\obj\Debug\constructor_default_constructor.pdb
