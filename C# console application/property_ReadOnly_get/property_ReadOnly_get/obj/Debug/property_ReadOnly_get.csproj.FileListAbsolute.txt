@@ -1,0 +1,5 @@
+E:\a coding\.NET Framework\C# console application\property_ReadOnly_get\property_ReadOnly_get\obj\Debug\ResolveAssemblyReference.cache
+E:\a coding\.NET Framework\C# console application\property_ReadOnly_get\property_ReadOnly_get\bin\Debug\property_ReadOnly_get.exe
+E:\a coding\.NET Framework\C# console application\property_ReadOnly_get\property_ReadOnly_get\bin\Debug\property_ReadOnly_get.pdb
+E:\a coding\.NET Framework\C# console application\property_ReadOnly_get\property_ReadOnly_get\obj\Debug\property_ReadOnly_get.exe
+E:\a coding\.NET Framework\C# console application\property_ReadOnly_get\property_ReadOnly_get\obj\Debug\property_ReadOnly_get.pdb

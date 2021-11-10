@@ -1,0 +1,1 @@
+E:\a coding\.NET Framework\C# console application\Property_WriteOnly_Set\Property_WriteOnly_Set\obj\Release\ResolveAssemblyReference.cache
