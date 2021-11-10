@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuStrip_ToolsStrip_StatusStrip_DiaglogBoxes", "MenuStrip_ToolsStrip_StatusStrip_DiaglogBoxes\MenuStrip_ToolsStrip_StatusStrip_DiaglogBoxes.csproj", "{86F04AF4-5ECC-4D59-AE35-5896FCD51590}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86F04AF4-5ECC-4D59-AE35-5896FCD51590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F04AF4-5ECC-4D59-AE35-5896FCD51590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86F04AF4-5ECC-4D59-AE35-5896FCD51590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86F04AF4-5ECC-4D59-AE35-5896FCD51590}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
