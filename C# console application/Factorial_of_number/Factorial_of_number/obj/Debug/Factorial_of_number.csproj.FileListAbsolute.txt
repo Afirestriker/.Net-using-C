@@ -1,0 +1,10 @@
+E:\a coding\.NET Framework\C# console application\Factorial_of_number\Factorial_of_number\obj\Debug\ResolveAssemblyReference.cache
+E:\a coding\.NET Framework\C# console application\Factorial_of_number\Factorial_of_number\bin\Debug\Factorial_of_number.exe
+E:\a coding\.NET Framework\C# console application\Factorial_of_number\Factorial_of_number\bin\Debug\Factorial_of_number.pdb
+E:\a coding\.NET Framework\C# console application\Factorial_of_number\Factorial_of_number\obj\Debug\Factorial_of_number.exe
+E:\a coding\.NET Framework\C# console application\Factorial_of_number\Factorial_of_number\obj\Debug\Factorial_of_number.pdb
+E:\a coding\NET using C#\C# console application\Factorial_of_number\Factorial_of_number\obj\Debug\Factorial_of_number.exe
+E:\a coding\NET using C#\C# console application\Factorial_of_number\Factorial_of_number\obj\Debug\Factorial_of_number.pdb
+E:\a coding\NET using C#\C# console application\Factorial_of_number\Factorial_of_number\bin\Debug\Factorial_of_number.exe
+E:\a coding\NET using C#\C# console application\Factorial_of_number\Factorial_of_number\bin\Debug\Factorial_of_number.pdb
+E:\a coding\NET using C#\C# console application\Factorial_of_number\Factorial_of_number\obj\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Shree.VAIO\AppData\Local\Temporary Projects\Foreach_loop_basic\bin\Debug\Foreach_loop_basic.exe
+C:\Users\Shree.VAIO\AppData\Local\Temporary Projects\Foreach_loop_basic\bin\Debug\Foreach_loop_basic.pdb
+C:\Users\Shree.VAIO\AppData\Local\Temporary Projects\Foreach_loop_basic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Shree.VAIO\AppData\Local\Temporary Projects\Foreach_loop_basic\obj\Debug\Foreach_loop_basic.exe
+C:\Users\Shree.VAIO\AppData\Local\Temporary Projects\Foreach_loop_basic\obj\Debug\Foreach_loop_basic.pdb
+E:\a coding\.NET Framework\C# console application\Foreach_loop_basic\Foreach_loop_basic\obj\Debug\Foreach_loop_basic.exe
+E:\a coding\.NET Framework\C# console application\Foreach_loop_basic\Foreach_loop_basic\obj\Debug\Foreach_loop_basic.pdb
