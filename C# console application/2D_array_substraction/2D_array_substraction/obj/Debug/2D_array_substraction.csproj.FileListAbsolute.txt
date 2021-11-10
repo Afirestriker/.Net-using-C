@@ -1,0 +1,5 @@
+E:\a coding\.NET Framework\C# console application\2D_array_substraction\2D_array_substraction\obj\Debug\ResolveAssemblyReference.cache
+E:\a coding\.NET Framework\C# console application\2D_array_substraction\2D_array_substraction\bin\Debug\2D_array_substraction.exe
+E:\a coding\.NET Framework\C# console application\2D_array_substraction\2D_array_substraction\bin\Debug\2D_array_substraction.pdb
+E:\a coding\.NET Framework\C# console application\2D_array_substraction\2D_array_substraction\obj\Debug\2D_array_substraction.exe
+E:\a coding\.NET Framework\C# console application\2D_array_substraction\2D_array_substraction\obj\Debug\2D_array_substraction.pdb
