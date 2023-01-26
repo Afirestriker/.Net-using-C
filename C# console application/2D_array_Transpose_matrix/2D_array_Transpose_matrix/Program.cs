@@ -46,7 +46,6 @@ namespace _2D_array_Transpose_matrix
                 }
                 Console.WriteLine();
             }
-
             Console.ReadKey();
         }
     }
